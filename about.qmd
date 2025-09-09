@@ -3,3 +3,5 @@ title: "About"
 ---
 
 About this site
+
+This site was created as a part of an in class activity for Reproducible and Collaborative data science in R Lecture, on 9/9/25. This was supposed to be a part of a partner activity, but I am sick today, so I am making it from the comfort of my own apartment, with the discomfort of my own stuffy nose. I wasnt given specific directions on the content of the website, so It will have crows. 
