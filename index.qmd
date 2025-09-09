@@ -1,0 +1,9 @@
+---
+title: "Lecture 5 activity: collab_website"
+---
+
+This is Patrick's Quarto website. I am virtual for this class (because I am sick) so I don't have a partner. For that reason, I will be partnering with this Torresian crow:
+
+![](320.jpeg)
+
+Good morning, Torresian crow.
